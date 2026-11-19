@@ -1,0 +1,38 @@
+[
+  {
+    "ruta": "README.md",
+    "sha256": "25fd6c5ea4c71506cc5bb2ff0eead605a0e87fc01a7e689b83cf03c86ae41f1a"
+  },
+  {
+    "ruta": "package.json",
+    "sha256": "d50f181a1f18c6977d3e5969d495f9e7f857bc27f6e5a8c74598ccb927721907"
+  },
+  {
+    "ruta": "lib/cosecha.ts",
+    "sha256": "29a63308ef6e9c67097943913730671f5777ab5a5285649ff0f30fa3b1f2e3f5"
+  },
+  {
+    "ruta": "lib/types/cosecha.ts",
+    "sha256": "8c81e6c99b87e35a737e809561573dd09968405d80a6349b9ecf0574827f154a"
+  },
+  {
+    "ruta": "tests/jornadas-cases.cjs",
+    "sha256": "401ee5981b83f36a2d8cb0ea53bfcbab6733e78feb8963ed2c79f7f77c83b713"
+  },
+  {
+    "ruta": "REPORTE_DE_TRAZABILIDAD.md",
+    "sha256": "9108079b9c687d88ffc15f30993b85ea4169b3d1985771b0f2c4cc57e8424761"
+  },
+  {
+    "ruta": "docs/REGLAS_NEGOCIO_Y_CONTRASTE_EXCEL_2026-10-09.md",
+    "sha256": "9eb02683babf88d686f3830a135885981b58d7fc6e66772aba6daaeaa3bd56c7"
+  },
+  {
+    "ruta": "docs/MANUAL_OPERACION_Y_ACEPTACION.md",
+    "sha256": "adb8623f679836816fdab032499c988ed6a2fc8e8912c392cf6dba094fe9feb2"
+  },
+  {
+    "ruta": "docs/REFINAMIENTO_PANEL_Y_RENDIMIENTO_2026-11-18.md",
+    "sha256": "cf569556da7e7c04fd45c974200414b2c645373a416a018cf0ec62aa53a230d7"
+  }
+]

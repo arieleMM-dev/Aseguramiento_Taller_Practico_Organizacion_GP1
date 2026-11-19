@@ -1,0 +1,1 @@
+Inspección real de la fuente el 19/11/2026. HEAD: 85f6b2fedacb4ba93986dcdc0d8800e1f468accd. Había cambios locales en documentación, vistas, estilos, hooks, paquetes y pruebas, además de archivos nuevos. No se presume una copia limpia de HEAD. Las copias exactas utilizadas se identifican por manifest.json. No se edita ni confirma el repositorio del cliente.
